@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**FnFarias/FnFarias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hola soy Facundo
 
-Here are some ideas to get you started:
+|Num| Comando | Descripcion|
+|---|---------|------------|
+|36| pwd|Esto es una descripcion|
+|36| ls|Esto es una descripcion|
+|32| cd|Esto es una descripcion|
+|9 |cl|Esto es una descripcion|
+|8 |homef|Esto es una descripcion|
+|7 |code|Esto es una descripcion|
+|7 |cal|Esto es una descripcion|
+|6 |cafe|Esto es una descripcion|
+|5 |echo|Esto es una descripcion|
+|4 |touch|Esto es una descripcion|
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
